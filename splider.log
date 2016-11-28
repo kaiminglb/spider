@@ -1,0 +1,57 @@
+2016-11-22 14:46:24,095 - com.km.spider.timer.MyTask -0    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Tue Nov 22 14:46:24 CST 2016
+2016-11-22 14:46:31,007 - com.km.spider.timer.MyTask -6912 [Timer-0] INFO  com.km.spider.timer.MyTask  - total saving-------0
+2016-11-22 14:46:31,007 - com.km.spider.timer.MyTask -6912 [Timer-0] INFO  com.km.spider.timer.MyTask  - 执行时间：6.91s
+2016-11-22 18:20:59,266 - com.km.spider.timer.MyTask -0    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Tue Nov 22 18:20:59 CST 2016
+2016-11-22 18:22:00,987 - com.km.spider.timer.MyTask -0    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Tue Nov 22 18:22:00 CST 2016
+2016-11-22 18:22:14,899 - com.km.spider.timer.MyTask -13912 [Timer-0] INFO  com.km.spider.timer.MyTask  - total saving-------18
+2016-11-22 18:24:27,644 - com.km.spider.timer.MyTask -0    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Tue Nov 22 18:24:27 CST 2016
+2016-11-22 18:24:40,040 - com.km.spider.timer.MyTask -12396 [Timer-0] INFO  com.km.spider.timer.MyTask  - total saving-------18
+2016-11-22 18:28:24,064 - com.km.spider.timer.MyTask -1    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Tue Nov 22 18:28:24 CST 2016
+2016-11-22 18:28:35,409 - com.km.spider.timer.MyTask -11346 [Timer-0] INFO  com.km.spider.timer.MyTask  - total saving-------18
+2016-11-22 18:28:36,452 - com.km.spider.dao.GGSDInfoDao -12389 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37145:起诉状副本、开庭传票等:陈文华:M1Df1f3cc15-5a2c-45f3-8d24-f778cb4e0e6b
+2016-11-22 18:28:38,479 - com.km.spider.dao.GGSDInfoDao -14416 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37146:一审民事判决书:冯汇伦:M1Ddb370a47-b120-4313-9ef7-a2a9a9d7e14f
+2016-11-22 18:28:40,531 - com.km.spider.dao.GGSDInfoDao -16468 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37147:一审民事判决书:张发洪:M1Dceee6608-6cc3-469e-bb0d-a1aa85bd40c2
+2016-11-22 18:28:42,571 - com.km.spider.dao.GGSDInfoDao -18508 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37148:起诉状副本、应诉通知书、开庭传票等:马顺文:M1Dcbd57eee-967d-4928-b50b-847061e32fbe
+2016-11-22 18:28:44,636 - com.km.spider.dao.GGSDInfoDao -20573 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37149:起诉状副本、传票:蔡丽:M1Dc4d78165-cdc8-455e-b236-eedfec65a0f3
+2016-11-22 18:28:46,754 - com.km.spider.dao.GGSDInfoDao -22691 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37150:一审民事案件起诉状副本等诉讼材料及开庭传票:刘大顺:M1D9756f7c9-4a5f-48f8-907e-60d1514851bd
+2016-11-22 18:28:47,790 - com.km.spider.dao.GGSDInfoDao -23727 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37151:一审民事案件起诉状副本等诉讼材料及开庭传票:熊盛杰:M1D77a6ff8c-5da7-4621-b2b9-c6e14abd9fe1
+2016-11-22 18:28:49,824 - com.km.spider.dao.GGSDInfoDao -25761 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37152:一审民事判决书:杨正全:M1D74d44e70-0579-41c9-a172-f661eac06898
+2016-11-22 18:28:51,858 - com.km.spider.dao.GGSDInfoDao -27795 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37153:起诉状副本、应诉通知书、开庭传票等:重庆市渝北区商联投小额贷款股份有限公司:M1D71b4c976-8c34-456c-bde9-e779b375aa06
+2016-11-22 18:28:52,914 - com.km.spider.dao.GGSDInfoDao -28851 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37154:起诉状副本、开庭传票:重庆康驰源汽车经纪有限公司:M1D713e583a-5ec6-47c5-9e10-cac165839360
+2016-11-22 18:28:54,940 - com.km.spider.dao.GGSDInfoDao -30877 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37155:一审民事判决书:重庆紫东建设工程（集团）有限公司:M1D55c225a7-5d03-4f8c-b12b-22c141b1981c
+2016-11-22 18:28:56,966 - com.km.spider.dao.GGSDInfoDao -32903 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37156:起诉状副本、应诉通知书、开庭传票等:代琼:M1D429cf3b4-9079-4649-8c82-2ca4ff0263cc
+2016-11-22 18:28:58,992 - com.km.spider.dao.GGSDInfoDao -34929 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37157:起诉状副本，应诉通知书、开庭传票等:肖凌:M1D3f0c967a-305b-4a26-97a1-2356dc9ace55
+2016-11-22 18:29:00,019 - com.km.spider.dao.GGSDInfoDao -35956 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37158:民事一审判决书:周伟:M1D3e91ef3a-e64a-435c-a263-7701b8d452d4
+2016-11-22 18:29:01,041 - com.km.spider.dao.GGSDInfoDao -36978 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37159:一审民事判决书:张祖英:M1D3152ac6e-6994-4b8b-bebb-37dfcde3c5a9
+2016-11-22 18:29:03,068 - com.km.spider.dao.GGSDInfoDao -39005 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37160:起诉状副本、应诉通知书、开庭传票等:杜祥君:M1D2b468e7e-e794-4e8d-86c9-815cf97dfc1c
+2016-11-22 18:29:05,090 - com.km.spider.dao.GGSDInfoDao -41027 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37161:起诉状副本、应诉通知书、开庭传票等:李世利:M1D287c7824-6d17-4f41-81bd-04ff69d83149
+2016-11-22 18:29:07,115 - com.km.spider.dao.GGSDInfoDao -43052 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37162:一审民事判决书:段朝凌:M1D23be0144-9d89-405d-9ae1-eccbb41eb0c8
+2016-11-22 18:29:07,117 - com.km.spider.timer.MyTask -43054 [Timer-0] INFO  com.km.spider.timer.MyTask  - 执行时间：43.051s
+2016-11-22 18:35:55,985 - com.km.spider.timer.MyTask -0    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Tue Nov 22 18:35:55 CST 2016
+2016-11-22 18:36:01,528 - com.km.spider.timer.MyTask -5543 [Timer-0] INFO  com.km.spider.timer.MyTask  - total saving-------0
+2016-11-22 18:36:01,529 - com.km.spider.timer.MyTask -5544 [Timer-0] INFO  com.km.spider.timer.MyTask  - 执行时间：5.542s
+2016-11-23 11:06:04,727 - com.km.spider.timer.MyTask -0    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Wed Nov 23 11:06:04 CST 2016
+2016-11-23 11:14:14,255 - com.km.spider.timer.MyTask -0    [Timer-0] INFO  com.km.spider.timer.MyTask  - start-------------------Wed Nov 23 11:14:14 CST 2016
+2016-11-23 11:14:29,272 - com.km.spider.timer.MyTask -15017 [Timer-0] INFO  com.km.spider.timer.MyTask  - total saving-------21
+2016-11-23 11:14:30,477 - com.km.spider.dao.GGSDInfoDao -16222 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37163:起诉状副本、应诉通知书、开庭传票等:中国农业银行股份有限公司重庆两江分行:M1Df65d5de5-8df0-4595-a76a-545abac3e9ce
+2016-11-23 11:14:32,615 - com.km.spider.dao.GGSDInfoDao -18360 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37164:起诉状副本、应诉通知书、开庭传票等:中国工商银行股份有限公司重庆渝北支行:M1Ddcffa964-fdff-4a17-91de-7218c5920b38
+2016-11-23 11:14:34,674 - com.km.spider.dao.GGSDInfoDao -20419 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37165:起诉状副本、应诉通知书、开庭传票等:重庆龙湖科恒地产发展有限公司:M1Dd6fd9186-7414-445a-bc89-7e8ea3cdc379
+2016-11-23 11:14:36,696 - com.km.spider.dao.GGSDInfoDao -22441 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37166:起诉状副本、应诉通知书、开庭传票等:邹逢飞:M1D95eb1887-e198-420b-8741-f7b3346d91ad
+2016-11-23 11:14:37,732 - com.km.spider.dao.GGSDInfoDao -23477 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37167:一审民事判决书（更正）:郑开俊:M1D8a14dea3-44df-4308-8fcd-308e81415cd4
+2016-11-23 11:14:39,769 - com.km.spider.dao.GGSDInfoDao -25514 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37168:一审民事裁定书:重庆小康小额贷款有限公司:M1D70018f47-12d3-43bc-a3a0-04f594f94068
+2016-11-23 11:14:41,791 - com.km.spider.dao.GGSDInfoDao -27536 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37169:起诉状副本、应诉通知书、开庭传票等:中国工商银行股份有限公司重庆北部新区支行:M1D57b9463d-089f-4e24-8f5d-1116170650f9
+2016-11-23 11:14:42,815 - com.km.spider.dao.GGSDInfoDao -28560 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37170:一审民事判决书:郑开俊:M1D4b88e7e8-3237-466a-b66c-0395e6501197
+2016-11-23 11:14:44,846 - com.km.spider.dao.GGSDInfoDao -30591 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37171:起诉状副本、应诉通知书、开庭传票等:重庆市鹏泰家好佳网络科技有限公司:M1D4a91a8f6-5403-46b7-a1d6-fc390257619c
+2016-11-23 11:14:46,904 - com.km.spider.dao.GGSDInfoDao -32649 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37172:一审民事判决书:交通银行股份有限公司重庆爱都会支行:M1D48ce02c3-ebd6-4e3c-8ef0-dafd4aab221e
+2016-11-23 11:14:47,928 - com.km.spider.dao.GGSDInfoDao -33673 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37173:起诉状副本、应诉通知书、开庭传票等:李桃梅:M1D417e3d4a-5ad3-4613-90f7-ad5c04174223
+2016-11-23 11:14:48,950 - com.km.spider.dao.GGSDInfoDao -34695 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37174:起诉状副本、应诉通知书、开庭传票等:重庆渝易贷商贸有限公司:M1D3c6c6b15-0828-453a-b7d7-996c60661bc4
+2016-11-23 11:14:50,976 - com.km.spider.dao.GGSDInfoDao -36721 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37175:起诉状副本、应诉通知书、开庭传票等:江福勇:M1D31d0489f-fcc3-4234-b3fe-5117be1fb677
+2016-11-23 11:14:53,001 - com.km.spider.dao.GGSDInfoDao -38746 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37176:一审民事判决书:朱应涛:M1D2f5bf2db-c726-4d0d-83f4-9931fbb528c1
+2016-11-23 11:14:55,023 - com.km.spider.dao.GGSDInfoDao -40768 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37177:起诉状副本、应诉通知书、开庭传票等:任小林:M1D2efe4cd4-3126-4315-8915-5b9dc1911f6e
+2016-11-23 11:14:57,048 - com.km.spider.dao.GGSDInfoDao -42793 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37178:起诉状副本、应诉通知书、开庭传票等:郑大伟:M1D2772cc4b-01f5-4b6d-a32f-06c4e7a2b456
+2016-11-23 11:14:59,071 - com.km.spider.dao.GGSDInfoDao -44816 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37179:一审民事判决书:郑开俊:M1D1ee73c18-ddfd-4625-acf3-b087dce4180c
+2016-11-23 11:15:00,094 - com.km.spider.dao.GGSDInfoDao -45839 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37180:一审民事判决书:中国工商银行股份有限公司重庆北部新区支行:M1D0ba9407c-944a-46a3-8d40-dc23cdb9b2c0
+2016-11-23 11:15:02,117 - com.km.spider.dao.GGSDInfoDao -47862 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37181:一审民事判决书:中国工商银行股份有限公司重庆渝北支行:M1Df7dc967f-f125-4735-bb23-204df5c8b0a3
+2016-11-23 11:15:04,140 - com.km.spider.dao.GGSDInfoDao -49885 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37182:一审民事判决书:中国工商银行股份有限公司重庆渝北支行:M1Db9fdc363-8941-4496-ad3b-2bf8009382ed
+2016-11-23 11:15:05,163 - com.km.spider.dao.GGSDInfoDao -50908 [Timer-0] INFO  com.km.spider.dao.GGSDInfoDao  - saveGGSDInfo 37183:起诉状副本、应诉通知书、开庭传票等:陈忠:M1D56c99eeb-3885-46b3-8c52-d76b77e6a9fb
+2016-11-23 11:15:05,164 - com.km.spider.timer.MyTask -50909 [Timer-0] INFO  com.km.spider.timer.MyTask  - 执行时间：50.907s
